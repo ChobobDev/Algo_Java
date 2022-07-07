@@ -22,6 +22,7 @@
 | 단계 번호 | 단계 이름 |       풀이 기간        |          풀이         |
 | :----------: |:--:| :---------------: | :------------------: |
 | 1 |  휴대폰 번호 가리기  | 07/07/2022 | [Folder](src/Level_1/hidePhoneNumber)|
+| 1 |  하샤드 수  | 07/07/2022 | [Folder](src/Level_1/harshadNumber)|
 
 
 <div align="center">
