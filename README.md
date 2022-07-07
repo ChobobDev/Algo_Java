@@ -26,6 +26,7 @@
 | 1 |  짝수와 홀수  | 07/07/2022 | [Folder](src/Level_1/evenOrOdd)|
 | 1 |  완주하지못한 선수  | 07/07/2022 | [Folder](src/Level_1/incompleteRunner)|
 | 1 |  내적  | 07/07/2022 | [Folder](src/Level_1/dotProduct)|
+| 1 |  자릿수 더하기  | 07/07/2022 | [Folder](src/Level_1/sumOfDigits)|
 
 
 <div align="center">
