@@ -23,6 +23,7 @@
 | :----------: |:--:| :---------------: | :------------------: |
 | 1 |  휴대폰 번호 가리기  | 07/07/2022 | [Folder](src/Level_1/hidePhoneNumber)|
 | 1 |  하샤드 수  | 07/07/2022 | [Folder](src/Level_1/harshadNumber)|
+| 1 |  짝수와 홀  | 07/07/2022 | [Folder](src/Level_1/evenOrOdd)|
 
 
 <div align="center">
